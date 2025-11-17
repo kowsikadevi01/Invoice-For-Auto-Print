@@ -1,0 +1,28 @@
+[07-Nov-2025 05:47:48 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\Renderer\Block" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/Image.php on line 18
+[07-Nov-2025 05:49:30 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\Renderer\AbstractRenderer" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/Block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/Block.php on line 17
+[07-Nov-2025 05:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\Renderer\AbstractRenderer" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/ListBullet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/ListBullet.php on line 20
+[07-Nov-2025 05:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\Renderer\Block" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/TableCell.php on line 18
+[07-Nov-2025 05:58:39 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\Renderer\Block" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/TableRow.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/TableRow.php on line 14
+[07-Nov-2025 05:59:01 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\Renderer\Block" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/TableRowGroup.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/TableRowGroup.php on line 14
+[07-Nov-2025 08:05:04 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\Renderer\AbstractRenderer" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/Text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer/Text.php on line 17

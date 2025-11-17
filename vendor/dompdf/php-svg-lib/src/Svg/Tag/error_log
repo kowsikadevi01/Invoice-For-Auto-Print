@@ -1,0 +1,72 @@
+[06-Nov-2025 04:00:12 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Stop.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Stop.php on line 10
+[06-Nov-2025 22:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/ClipPath.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/ClipPath.php on line 12
+[06-Nov-2025 23:15:30 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\Shape" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Polygon.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Polygon.php on line 10
+[06-Nov-2025 23:40:38 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\Shape" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Text.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Text.php on line 12
+[09-Nov-2025 16:00:10 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/UseTag.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/UseTag.php on line 10
+[09-Nov-2025 16:00:48 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\Shape" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Line.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Line.php on line 12
+[09-Nov-2025 17:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Image.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Image.php on line 12
+[09-Nov-2025 17:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/RadialGradient.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/RadialGradient.php on line 10
+[09-Nov-2025 17:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\Shape" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Ellipse.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Ellipse.php on line 12
+[09-Nov-2025 17:14:09 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/LinearGradient.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/LinearGradient.php on line 14
+[09-Nov-2025 18:03:43 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\Shape" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Rect.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Rect.php on line 12
+[09-Nov-2025 18:05:04 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\Group" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Anchor.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Anchor.php on line 10
+[09-Nov-2025 18:06:08 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/StyleTag.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/StyleTag.php on line 12
+[09-Nov-2025 18:06:36 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Shape.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Shape.php on line 12
+[10-Nov-2025 14:16:44 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Group.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Group.php on line 12
+[10-Nov-2025 14:17:49 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\Shape" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Polyline.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Polyline.php on line 10
+[10-Nov-2025 14:41:04 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Symbol.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Symbol.php on line 12
+[11-Nov-2025 19:19:15 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\Shape" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Circle.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Tag/Circle.php on line 12

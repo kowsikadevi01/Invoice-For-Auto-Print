@@ -1,0 +1,8 @@
+[10-Nov-2025 13:34:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 13
+[10-Nov-2025 13:34:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 13

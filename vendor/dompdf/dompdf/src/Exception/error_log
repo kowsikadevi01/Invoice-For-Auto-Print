@@ -1,0 +1,4 @@
+[07-Nov-2025 05:58:38 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\Exception" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Exception/ImageException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Exception/ImageException.php on line 16

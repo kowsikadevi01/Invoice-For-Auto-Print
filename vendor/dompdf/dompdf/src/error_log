@@ -1,0 +1,4 @@
+[02-Nov-2025 00:42:46 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\Renderer\AbstractRenderer" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/Renderer.php on line 26

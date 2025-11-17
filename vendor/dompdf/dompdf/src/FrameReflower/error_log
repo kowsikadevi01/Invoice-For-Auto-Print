@@ -1,0 +1,28 @@
+[05-Nov-2025 06:21:49 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[06-Nov-2025 04:01:42 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[06-Nov-2025 04:02:04 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[06-Nov-2025 04:04:54 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[06-Nov-2025 08:58:41 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[06-Nov-2025 09:00:32 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[06-Nov-2025 09:01:37 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17

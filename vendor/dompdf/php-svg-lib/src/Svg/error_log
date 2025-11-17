@@ -1,0 +1,8 @@
+[06-Nov-2025 22:47:30 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Style" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/DefaultStyle.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/DefaultStyle.php on line 10
+[10-Nov-2025 15:44:47 UTC] PHP Fatal error:  Uncaught Error: Class "Svg\Tag\AbstractTag" not found in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Document.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/hotelpavieshpark/public_html/vcodes.hotelpavieshpark.in/whatsapp_api/vendor/dompdf/php-svg-lib/src/Svg/Document.php on line 30
